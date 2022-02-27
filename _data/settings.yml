@@ -2,7 +2,6 @@ analytics-id:
 #Pages
 pages:
   - {name: 'Episodes', link: 'episodes.html'}
-  - {name: 'Shop', link: '#'}
   - {name: 'GitHub', link: 'https://github.com/zenntenn'}
   - {name: 'Get This Theme', link: 'https://github.com/PandaSekh/Jekyll-Podcaster'}
 
@@ -30,7 +29,3 @@ websites-podcast:
 
 translate-date: true #See _includes/date.html to translate the months' name
 shownotes: true
-
-#Disqus
-disqus:
-  disqus_shortname: 
