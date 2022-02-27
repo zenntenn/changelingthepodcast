@@ -30,7 +30,7 @@
 		<itunes:image href="{{ site.url }}/images/itunes.png" />
 		<itunes:category text="Leisure">
             <itunes:category text="Games" />
-        </Leisure>
+        </itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 		{% for post in site.posts %}
 			<item>
