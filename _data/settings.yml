@@ -2,18 +2,17 @@ analytics-id:
 #Pages
 pages:
   - {name: 'Episodes', link: 'episodes.html'}
-  - {name: 'Patreon', link: '#'}
   - {name: 'Shop', link: '#'}
-  - {name: 'GitHub', link: 'https://github.com/PandaSekh'}
+  - {name: 'GitHub', link: 'https://github.com/zenntenn'}
   - {name: 'Get This Theme', link: 'https://github.com/PandaSekh/Jekyll-Podcaster'}
 
 social:
   - {icon: 'instagram', type: "brand", link: '#'}
-  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/ArteLettura'}
+  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/ChangelingPod'}
   - {icon: 'facebook', type: "brand", link: '#'}
   - {icon: 'youtube', type: "brand", link: '#'}  
-  - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
-  - {icon: 'rss', type: "solid", link: "#"}
+  - {icon: 'envelope', type: "solid", link: 'podcast@changelingthepodcast.com'}
+  - {icon: 'rss', type: "solid", link: "/podcast.rss"}
 
 websites-podcast:
   - {name: 'Apple Podcast', link: '#'}
@@ -27,7 +26,7 @@ websites-podcast:
   - {name: 'Overcast', link: '#'}
   - {name: 'RadioPublic', link: '#'}
   - {name: 'Breaker', link: '#'}  
-  - {name: 'RSS', link: '#'}
+  - {name: 'RSS', link: '/podcast.rss'}
 
 translate-date: true #See _includes/date.html to translate the months' name
 shownotes: true
