@@ -32,7 +32,7 @@ twitter_username: ChangelingCast
 github_username:
 
 # Build settings
-theme: minima
+theme: jekyll-podcaster
 plugins:
   - jekyll-feed
 
