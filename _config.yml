@@ -4,9 +4,8 @@ description: "A podcast for the roleplaying game Changeling the Podcast"
 podcast-description: "Your hosts Pooka and Josh give book reviews, interviews, and all sorts of interesting information about Changeling the Dreaming"
 url:  "https://changelingthepodcast.com" # Actual base url of the website
 baseurl: "/"                    # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
-author:
-  name: "Joshua Hillerup and Pooka Gar"
-  email: "podcast"
+author: "Joshua Hillerup and Pooka Gar"
+email: "podcast@changelingthepodcast.com"
 permalink: /:title
 keywords: [podcast, changeling]
 
