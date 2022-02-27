@@ -27,6 +27,7 @@
 			<itunes:name>{{ site.author }}</itunes:name>
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
+        <itunes:type>episodic</itunes:type>
 		<itunes:image href="{{ site.url }}/images/itunes.png" />
 		<itunes:category text="Leisure">
             <itunes:category text="Games" />
@@ -48,7 +49,6 @@
 				<itunes:image href="{{ site.url }}/images/itunes.png" />
 				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
 				<itunes:block>{{ post.block }}</itunes:block>
-                <itunes:type>episodic</itunes:type>
 			</item>
 		{% endfor %}
 	</channel>
