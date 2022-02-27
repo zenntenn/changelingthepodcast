@@ -1,57 +1,37 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+title: "Changeling the Podcast"
+description: "A podcast for the roleplaying game Changeling the Podcast"
+podcast-description: "Your hosts Pooka and Josh give book reviews, interviews, and all sorts of interesting information about Changeling the Dreaming"
+url:  "https://changelingthepodcast.com" # Actual base url of the website
+baseurl: "/"                    # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
+author:
+  name: "Joshua Hillerup and Pooka Gar"
+  email: "podcast"
+permalink: /:title
+keywords: [podcast, changeling]
 
-title: Changeling the Podcast
-email: podcast@changelingthepodcast.com
-description: >- # this means to ignore newlines until "baseurl:"
-  A podcast for the roleplaying game Changeling the Dreaming
-subtitle: Add a subtitle
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.changelingthepodcast.com" # the base hostname & protocol for your site, e.g. http://example.com
+#Plugins
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
+
+#exclude: [_podcast.rss] #Ignore this, it will be used in case I decide to add rss feed
+
+#Pagination
+paginate: 5
+paginate_path: "/page-:num/"
+
+#Sass
+sass:
+  style: compressed
+  sourcemap: never
+
+#SEO
+twitter:
+  username: ChangelingCast
+  card: summary
+facebook:
+  app_id: 
+logo: /assets/img/Podcast_Cover.png
+social:
+  name: Joshua Hillerup and Pooka Gar
+  links:
 lang: en
-author: Joshua Hillerup and Pooka Gar
-copyright: "&#x2117; &amp; &#xA9; 2022"
-twitter_username: ChangelingCast
-github_username:
-
-# Build settings
-theme: jekyll-podcaster
-plugins:
-  - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
