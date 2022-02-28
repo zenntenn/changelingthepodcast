@@ -2,8 +2,7 @@ analytics-id:
 #Pages
 pages:
   - {name: 'Episodes', link: 'episodes.html'}
-  - {name: 'GitHub', link: 'https://github.com/zenntenn'}
-  - {name: 'Get This Theme', link: 'https://github.com/PandaSekh/Jekyll-Podcaster'}
+  - {name: 'About', link: 'about.html'}
 
 social:
   - {icon: 'instagram', type: "brand", link: '#'}
