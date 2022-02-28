@@ -7,10 +7,10 @@ pages:
 
 social:
   - {icon: 'instagram', type: "brand", link: '#'}
-  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/ChangelingPod'}
+  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/ChangelingCast'}
   - {icon: 'facebook', type: "brand", link: '#'}
   - {icon: 'youtube', type: "brand", link: '#'}  
-  - {icon: 'envelope', type: "solid", link: 'podcast@changelingthepodcast.com'}
+  - {icon: 'envelope', type: "solid", link: 'mailto:podcast@changelingthepodcast.com'}
   - {icon: 'rss', type: "solid", link: "podcast.rss"}
 
 websites-podcast:
