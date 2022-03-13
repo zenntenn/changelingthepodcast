@@ -4,15 +4,16 @@ title: About
 permalink: /about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About the Podcast
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Changeling the Podcast is a weekly exploration of the roleplaying game Changeling the Dreaming. Episodes range from readthroughs of books, to interviews with people relevant to Changeling, to deep dives into various topics. We're two fans of the game who are excited to share our love for Changeling with you all.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# Our Hosts
 
+## Joshua Hillerup
 
-[jekyll-organization]: https://github.com/jekyll
+Josh has been playing and running Changeling the Dreaming since the 1990s, and still has a huge love for this game. He first got into Changeling through LARP, and he still has a lot of that mindset when approaching the game. He likes player driven stories, and tends to throw in a lot of crossover and stranger things into games that he runs.
+
+Outside of Changeling, Josh lives in Ottawa, Canada, and has a fairly Banal sounding job in IT. He has two kids, one of which he's managed to get into Changeling, and enjoys other nerdy hobbies like philosophy and obscure programming languages in his spare time.
+
+## Pooka Gar
