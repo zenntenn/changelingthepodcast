@@ -6,7 +6,7 @@ permalink: /about
 
 # About the Podcast
 
-Changeling the Podcast is a weekly exploration of the roleplaying game Changeling the Dreaming. Episodes range from readthroughs of books, to interviews with people relevant to Changeling, to deep dives into various topics. We're two fans of the game who are excited to share our love for Changeling with you all.
+Changeling the Podcast is a weekly exploration of the roleplaying game Changeling the Dreaming. Episodes range from readthroughs of books, to interviews with people relevant to Changeling, to deep dives into various topics. We are two fans of the game who are excited to share our love for Changeling with you all.
 
 # Our Hosts
 
