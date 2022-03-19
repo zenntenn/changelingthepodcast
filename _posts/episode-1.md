@@ -1,0 +1,48 @@
+---
+title: Episode 1 - Introduction to Changeling: the Dreaming
+layout: post
+categories: [Main]
+type: main # I use this to split main episodes to extra ones
+description: A brief overview to the RPG that this whole podcast is about.
+file: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3 #Link to your .mp3 file
+length: "52:14" # mm:ss
+cover: /assets/img/Episode 1 splash.png
+# videoid: dQw4w9WgXcQ #Copy here only the id of your YouTube video
+---
+
+If you haven't played **Changeling** before, we welcome you to listen through our little primer here. We give an overview of the game's history, what we see as the moods and themes, a summary of changelings' in-game origins, and a glossary of useful terms. And just for shiggles, here are those same terms, alphabetized, for your eyeballs' pleasure:
+
+- **Arcadia:** mythical homeland paradise of the changelings deep in the Dreaming, from which many of those on Earth were banished or kept away
+- **Arts** and **Realms:** groups of related magical effects (Arts) and related targets (Realms) that comprise fae magic
+- **The Autumn World:** Earth, or its fleshier side at least
+- **Banality:** the force of sameness, conformity, disbelief, dullness, apathy, and stasis that changelings struggle against
+- **Cantrip:** a fae "spell", often created by a changeling using Glamour and drawing on the power of the Dreaming
+- **Chimera/Chimerical reality:** dreams given form, and sometimes a life of their own, populating our world at a level of perception that only the fae and their friends interact with (usually)
+- **Concordia:** the federation of changeling kingdoms that cover Canada, the United States, and Mexico
+- **The Dreaming:** the fluid and chaotic realm created from human dreams (and from which human dreams arise), which changelings can enter and explore
+= **Freehold:** a changeling hang-out where they can be themselves and recover their strength
+- **Gallain:** catch-all term used by Kithain for all kiths that are unfamiliar to them
+- **Glamour:** the force of dream/nightmare, creativity, wonderment, emotion/passion, inspiration, and belief that keeps the fae soul vibrant
+- **Kith:** a "family" of changelings, derived from a particular set of dreams; there are *many* of these
+- **Kithain:** catch-all term for the nine (in older editions) or thirteen (in the newest edition) kiths that are most common in Concordia
+- **Mien:** a changeling's chimerical appearance that shows their fae nature, coterminous with their human body, which other fae can see
+- **The Mists:** mysterious force that clouds the minds of those moving between the Dreaming and the Autumn World, and hides the fae from mortal memory
+- **Nobles:** and **Commoners:** a class distinction amongst fae that is reinforced by the power of the Dreaming; source of much political drama
+- **Seeming:** the life stage of a changeling, who move between *childling* (youthful, energetic), *wilder* (coming of age, passionate), and *grump* (mature, thoughtful)
+- **The Sundering** and **The Shattering:** historical eras when the Dreaming slowly started separating from Earth as humans' belief in the fae eroded, leading to the definitive moment (14th century, in Europe) when the fae were forced to either abandon Earth or take on human flesh (the *Changeling Way*) to survive
+- **Trod:** paths lacing the landscape of the Dreaming, occasionally connecting to portals in the Autumn World 
+
+(Host note: we totally didn't mention "freehold" in the episode, but it's an important one!)
+
+### Your Hosts
+
+**Josh Hillerup** believes that the secret to the universe is... 
+
+**Pooka G** *(any pronoun/they)* once snorted a blue Pixy Stik, just to see what it was like. (It was unpleasant.)
+
+...
+
+*"Stories of imagination tend to upset those without one."*
+—Terry Pratchett
+
+(psst! email us at **podcast@changelingthepodcast.com** if you want)
