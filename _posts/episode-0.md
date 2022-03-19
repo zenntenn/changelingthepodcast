@@ -36,4 +36,4 @@ This podcast was pretty directly inspired by a few others, so credit where credi
 *"The world is full of painful stories. Sometimes it seems as though there aren't any other kind and yet I found myself thinking how beautiful that glint of water was through the trees."*
 —Octavia Butler, *Parable of the Sower*
 
-*psst! email us at podcast@changelingthepodcast.com if you want*
+(psst! email us at podcast@changelingthepodcast.com if you want)
