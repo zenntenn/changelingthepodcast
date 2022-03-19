@@ -20,7 +20,7 @@ If you haven't played **Changeling** before, we welcome you to listen through ou
 - **Chimera/Chimerical reality:** dreams given form, and sometimes a life of their own, populating our world at a level of perception that only the fae and their friends interact with (usually)
 - **Concordia:** the federation of changeling kingdoms that cover Canada, the United States, and Mexico
 - **The Dreaming:** the fluid and chaotic realm created from human dreams (and from which human dreams arise), which changelings can enter and explore
-= **Freehold:** a changeling hang-out where they can be themselves and recover their strength
+- **Freehold:** a changeling hang-out where they can be themselves and recover their strength
 - **Gallain:** catch-all term used by Kithain for all kiths that are unfamiliar to them
 - **Glamour:** the force of dream/nightmare, creativity, wonderment, emotion/passion, inspiration, and belief that keeps the fae soul vibrant
 - **Kith:** a "family" of changelings, derived from a particular set of dreams; there are *many* of these
@@ -28,7 +28,7 @@ If you haven't played **Changeling** before, we welcome you to listen through ou
 - **Mien:** a changeling's chimerical appearance that shows their fae nature, coterminous with their human body, which other fae can see
 - **The Mists:** mysterious force that clouds the minds of those moving between the Dreaming and the Autumn World, and hides the fae from mortal memory
 - **Nobles:** and **Commoners:** a class distinction amongst fae that is reinforced by the power of the Dreaming; source of much political drama
-- **Seeming:** the life stage of a changeling, who move between *childling* (youthful, energetic), *wilder* (coming of age, passionate), and *grump* (mature, thoughtful)
+- **Seeming:** the life stage of a changeling, who moves between *childling* (youthful, energetic), *wilder* (coming of age, passionate), and *grump* (mature, thoughtful)
 - **The Sundering** and **The Shattering:** historical eras when the Dreaming slowly started separating from Earth as humans' belief in the fae eroded, leading to the definitive moment (14th century, in Europe) when the fae were forced to either abandon Earth or take on human flesh (the *Changeling Way*) to survive
 - **Trod:** paths lacing the landscape of the Dreaming, occasionally connecting to portals in the Autumn World 
 
