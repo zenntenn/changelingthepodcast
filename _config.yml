@@ -10,7 +10,7 @@ permalink: /:title
 keywords: [podcast, changeling]
 
 #Plugins
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jekyll-feed]
 
 #exclude: [_podcast.rss] #Ignore this, it will be used in case I decide to add rss feed
 
