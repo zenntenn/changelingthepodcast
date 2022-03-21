@@ -16,7 +16,7 @@
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
 			<link>{{ site.url }}</link>
-			<url>{{ site.url }}/assets/img/Podcast_cover_500.jpg</url>
+			<url>{{ site.url }}/assets/img/Podcast_Cover_500.jpg</url>
 			<title>{{ site.title }}</title>
 		</image>
 		<itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
@@ -28,7 +28,7 @@
 			<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
         <itunes:type>episodic</itunes:type>
-		<itunes:image href="{{ site.url }}/assets/img/Podcast_cover_500.jpg" />
+		<itunes:image href="{{ site.url }}/assets/img/Podcast_Cover_500.jpg" />
 		<itunes:category text="Leisure">
             <itunes:category text="Games" />
         </itunes:category>
